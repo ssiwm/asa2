@@ -1,0 +1,53 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/2bcIWoI.png",
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": false,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to Survival Games",
+                    "text1": "Welcome to the Survival Games Ark Ascended Server.\n\nPlease read the rules, we have a discord (linked) and a website(linked).\nAll donations will go directly into XXX and will be spent on server time, upgrades and if enough a cluster\n\nServer mods maybe updated and added to over time\n\nArk-ASA is new so some bugs are to be expected but I try not to rollback or wipe unless I have no choice.",
+                    "imageurl": ""
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Rules",
+                    "text1": "1) Respect others don't be rude, aggressive or just an @ss.\n\n2) ENGLISH ONLY\nThis is an English-speaking server. We politely ask that you translate or do your best at using English. If someone wishes to help you in your native language, we ask you to do that in Tribe chat or Local Global should be English only.\n\n3) Do not build a base near someone else, if you are impeding their build space your base may get deleted. If you are there first your area is yours.\n\n4) If you need a resolution contact an Admin or @mcw in Discord.\n\n5) Do not drag wild dinos to people bases\n\n6) Do not drag peoples sleeping bodies into dangerous areas like water or lava.\n\n7) Have Fun\n\n\nMore Rules maybe added as we think of them.",
+                    "imageurl": ""
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Link to website",
+                    "url": "https://sgservers.gameserverapp.net/"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Link to discord",
+                    "url": "https://discord.gg/survival-games-servers-966369584724709446"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Automatic Ark tutorial",
+                    "url": "https://youtu.be/kHMjTkkAPCkm"
+                }
+            }
+        ]
+    }
+}
